@@ -56,7 +56,7 @@ Is.politically.liberal
 - Factor 1 - introvert
 - Factor 2 - Extrovert
 - ## Factor Map Visualization
-![Factor Analysis Map](visuals/Factor_map)
+![Factor Analysis Map](visuals/Factor_map.png)
 
 - ## Tools
 Python, Pandas, Scikit-learn, Matplotlib
