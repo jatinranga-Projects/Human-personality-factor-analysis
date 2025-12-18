@@ -1,2 +1,3 @@
-# Human-personality-factor-analysis
-Human behaviour analysis using factor analysis in Python
+Customer Perception Analysis – Factor Analysis (Python)
+Problem
+Understand how human behaviour is attributaed to differet actions and identify underlying dimensions driving it.
