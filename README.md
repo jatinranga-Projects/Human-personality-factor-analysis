@@ -55,6 +55,9 @@ Is.politically.liberal
 - It was categogorized into two dimensions
 - Factor 1 - introvert
 - Factor 2 - Extrovert
+- ## Factor Map Visualization
+![Factor Analysis Map](visuals/factor_map.png)
+
 - ## Tools
 Python, Pandas, Scikit-learn, Matplotlib
 ## Output
