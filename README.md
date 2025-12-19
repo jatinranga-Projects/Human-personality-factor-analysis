@@ -55,7 +55,6 @@ Is.politically.liberal
 - It was categogorized into two dimensions
 - Factor 1 - Extrovert vs Introvert qualities
 - Factor 2 - Responsible vs disorganized
-- 3. What is the most important thing I should learn from this data?
 
 The most important takeaway is that
 1.  **How outgoing, energetic, and emotionally stable a person is (Extraversion/Introversion and aspects of Neuroticism).**
